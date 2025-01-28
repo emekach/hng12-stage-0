@@ -33,8 +33,8 @@ This project is a simple public API developed as part of the HNG12 internship pr
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/emekach/hng12-api.git
-   cd hng12-api
+   git clone https://github.com/emekach/hng12-stage-0.git
+   cd hng12-stage-0
 
    ```
 
