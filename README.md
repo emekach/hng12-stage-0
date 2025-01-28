@@ -75,6 +75,7 @@ http://localhost:3000/
 ```
 # Live API
 The live version of the API is deployed and accessible at:
+https://hng12-internship-task-0-0974ffa8bb84.herokuapp.com/
 
 ## Hire Developers
 - [Python Developers](https://hng.tech/hire/python-developers)
